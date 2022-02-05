@@ -3,7 +3,6 @@
 ## I'm a Student, Developer, and Video Editor!!
 
 - I just launched my Website: [aayushrajagopalan.ml](https://aayushrajagopalan.ml/) 
-- I use arch btw
 - I’m looking to make more apps and games with friends
 - 2022 Goals: Learn & Master JS and FLutter
 - Fun fact: I am also a Video editor with a [YT channel](https://www.youtube.com/c/AayushRajagopalan)
