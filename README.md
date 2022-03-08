@@ -37,6 +37,8 @@
 ### Current Projects (Not finished)
 
 - [Dyno (Android Chat App)](https://github.com/Aayush-Rajagopalan/Dyno) 
+- [1 week of Python)](https://github.com/Aayush-Rajagopalan/1-week-of-python)
+- [1 week of Javascript)](https://github.com/Aayush-Rajagopalan/1-week-of-javascript)  
 
 <br />
 
