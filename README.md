@@ -1,4 +1,4 @@
-# Hi there, I'm [Aayush Rajagopalan](https://aayushrajagopalan.ml/) 👋 
+# Hi there, I'm [Aayush Rajagopalan](https://aayushrajagopalan.me/) 👋 
 
 ## I'm a Student, Developer, and Video Editor!!
 
