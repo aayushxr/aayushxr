@@ -10,11 +10,11 @@ Hi, I'm Aayush Rajagopalan. I'm a 17 y/o CS Student who loves building things. I
   <p align="center">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=aayushxr&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ynng&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=aayushxr&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -22,14 +22,14 @@ Hi, I'm Aayush Rajagopalan. I'm a 17 y/o CS Student who loves building things. I
     <br />
     <picture>
       <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ynng&theme=dark"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=aayushxr&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ynng&theme=light"
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=aayushxr&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aayushxr&show_icons=true" />
     </picture>
     <br />
     
