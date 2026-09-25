@@ -1,7 +1,6 @@
-## Hi, I'm Aayush 👋 
+## Hi, I'm Aayush 👋
 
-Hi, I'm Aayush Rajagopalan. I'm a 18 y/o CS Student who loves building things. I'm passionate about blockchain, decentralized systems, and the future of the internet and I live on the terminal.
+I'm Aayush Rajagopalan, a product intern at [Qlub](https://qlub.io) in Doha. Outside work I build agents and tooling that do real work, mostly for myself. I live on the terminal and most of my day involves Claude in some form.
 
-- 📮 Reach me at [a@aayu.sh](mailto:a@aayu.sh)
+- 📮 Reach me at a@aayu.sh
 - 🕸 Checkout my [website](https://www.aayu.sh/)
-
